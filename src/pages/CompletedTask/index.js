@@ -4,7 +4,7 @@ import Template from '../Template';
 export default function CompletedTask ({ }) {
     return (
         <>
-            <Template title="Tarefas Completadas" status="Completas" />
+            <Template title="Tarefas Completadas" status="Completas"/>
         </>
     );
 }
